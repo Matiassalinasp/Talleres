@@ -1,4 +1,4 @@
-#Laboratorio 02 - Alineamiento de secuencias 
+##Laboratorio 02 - Alineamiento de secuencias
 1. **¿Qué función cumple el gen SRY? [2]**
   - Factor determinante de los testículos, iniciando la diferenciación masculina. [LINK](https://www.ncbi.nlm.nih.gov/gene/6736)
 
