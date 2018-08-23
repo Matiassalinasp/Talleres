@@ -2,7 +2,7 @@
 
 **1. ¿Cuántos Sequencing Projects y Analysis Projects hay depositados en GOLD? ¿Cuál es la diferencia entre ambos? [2]**
 
-  -  *Sequencing projects*
+  - *Sequencing projects*
   
     - Complete Projects 14.956
 
