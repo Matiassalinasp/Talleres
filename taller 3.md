@@ -1,8 +1,9 @@
-﻿﻿﻿﻿#Laboratorio 03 - Ensamblaje de genomas y predicción de genes
+﻿﻿﻿﻿#### Laboratorio 03 - Ensamblaje de genomas y predicción de genes
 
 **1. ¿Cuántos Sequencing Projects y Analysis Projects hay depositados en GOLD? ¿Cuál es la diferencia entre ambos? [2]**
 
   -  *Sequencing projects*
+  
     - Complete Projects 14.956
 
     - Permanent Drafts 125.997
