@@ -55,7 +55,9 @@
  - Chlamydiae
  - Fusobacteria.
  
-[LINK](https://gold.jgi.doe.gov/statistics)**4. ¿A qué tipo de proyectos pertenece la mayor cantidad de genomas bacterianos depositados en GOLD? (tipo de proyecto, se refiere al tópico de la investigación, por ejemplo, salud humana, ambiental, etc.) [1]**
+ [LINK](https://gold.jgi.doe.gov/statistics)
+ 
+ **4. ¿A qué tipo de proyectos pertenece la mayor cantidad de genomas bacterianos depositados en GOLD? (tipo de proyecto, se refiere al tópico de la investigación, por ejemplo, salud humana, ambiental, etc.) [1]**
 
  - Medical
  - Environmental
@@ -101,11 +103,14 @@
 
   - largo total: 3,286,643,896
   - % GC : 42.3185
+  
 [LINK](https://www.ncbi.nlm.nih.gov/assembly/GCF_000258655.2) y [2°LINK](https://www.ncbi.nlm.nih.gov/genome/?term=txid9597[Organism:noexp])
 
 **10. ¿Qué tipo de tecnología se uso para secuenciar el genoma del Bonobo? ¿Qué método (programa o algorítmo bioinformático) se usó para ensamblar el genoma?**
 
   - The genome was assembled using the open-source Celera Assembler software29
+  
+  
 [LINK](https://www.nature.com/articles/nature11128)
 
 **11. Describe los resultados obtenidos. ¿Cuántos ORFs o genes encontró ORFfinder? ¿En qué hebra están codificados? ¿De qué largo son los ORFs predichos? ¿Algunos de ellos se sobreponen (fíjate en la posición de inicio [start] y término [stop])? [3]**
@@ -125,9 +130,11 @@
 **12. ¿Qué tipo de programa es ORFfinder, Ab initio o por homología? [2]**
 
   -  Es Ab initio, por que no necesita de una base de datos.
+  
 **13. ¿A qué organismo pertenece la secuencia en cuestión? [2]**
 
   - Haemophilus influenzae
+  
 [LINK](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 
 **14. ¿Qué gen(s) está(n) codificados en la secuencia? [2]**
