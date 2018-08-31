@@ -41,7 +41,8 @@
 
 **6. ¿Cuál es la diferencia entre BioNJ y Neighbor? [3]**
 
-  - 
+  - Es la cantidad de grupo filogeneticos que analizan, en este caso BioNJ analiza 5000 taxas mientras que Neighbor 500.
+  
   [LINK]()
 
 **7. Incluye en tu informe una captura de pantalla de las dos filogenias que inferiste (sin Alignment curation). Recuerda que tu nombre completo debe aparecer en la imagen de cada filogenia (Name of the analysis). [2]**
@@ -52,9 +53,8 @@
   
 **8. ¿Cuál es el efecto de no hacer la curación del alineamiento en las filogenias? [3]**
 
-  - Son muchos, el árbol filogenetico es bastante distinto en ambos casos, ya que cambia la cercanía que tienen diferentes especies. al curar los arboles segun el alineamiento pre hecho. Es por esto que, cambia la topologia del árbol. disminuyendo,  incluso especiaciones de algunos organismos, debido a la curacion como en el caso de SRY_Tupaia_chinensis.
+  - Son muchos, el árbol filogenetico es bastante distinto en ambos casos, ya que cambia la cercanía que tienen diferentes especies. al curar los arboles segun el alineamiento pre hecho. Es por esto que, cambia la topologia del árbol. Disminuyendo,  incluso especiaciones de algunos organismos, debido a la curacion como en el caso de SRY_Tupaia_chinensis.
 
 **9. Describe las diferencias entre las filogenias que has estimado (4 en total): cantidad de grupos monofiléticos, relaciones que potencialmente cambiaron, etc. [5]**
 
-  - la cantidad de grupos monofileticos varía en cada arbol, tanto por la curacion y los cambios de herramientas utilizadas. por ejemplo, la imagen 1 y 3, respectivamente a como aparecen en el informe, tienen una diferencia de 19 a 23 grupos monofileticos. y las relaciones que cambian potencialmente en las 4 fueron las cantidades de ancestros en comun de todas las especies. ya que, en algunas filogenias, comparten ancestros, en otra no. 
-  
+  - La cantidad de grupos monofileticos varía en cada arbol, tanto por la curacion y los cambios de herramientas utilizadas. por ejemplo, la imagen 1 y 3, respectivamente a como aparecen en el informe, tienen varias diferencias en los grupos monofileticos. y las relaciones que cambian potencialmente en las 4 fueron las cantidades de ancestros en comun de todas las especies. ya que, en algunas filogenias, comparten ancestros y en otra no. entonces, ls 4 diferencias podrían ser: grupos monofileticos, relaciones ( SRY_caprahircus, cambia de 0,51b a 0.99 segun su especiacion), Topología y cantidad de ramificaciones. 
