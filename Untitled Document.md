@@ -17,12 +17,12 @@
 
 **4. ¿Cuántos otros metagenomas están disponibles para el bioma “marine habitat”? [1]**
 
-  - 7,065 results.
+  - 7 065 results.
  [LINK](http://www.mg-rast.org/mgmain.html?mgpage=search&search=)
 
 **5. ¿Cuántas reads fueron asignadas a eucariontes según MG-RAST? [1]** (contigs o cuantas secuencias)
 
-  - Eukaryota - 9,207 (13.03%) contigs
+  - Eukaryota - 9 207 (13.03%) contigs
 
 **6. ¿Cuál es el filo (Phylum) más abundante en la muestra? [1]**
 
@@ -31,15 +31,15 @@
   
 **7. ¿A cuántas secuencias se les asignó una función de acuerdo a la base de datos KEGG con un e-value entre -10 y -20? [1]**
 
-  - 7960 secuencias.
+  - 7 960 secuencias.
 
 **8. ¿Por qué hay tan pocas secuencias con funciones asignadas según SwissProt? [2]**
 
-  - SwissProt es una secuencia curada, por lo que la información esta revisada y filtada.
+  - SwissProt es una secuencia curada, por lo que la información esta revisada y filtrada.
 
 **9. ¿Cuántas secuencias mapearon en contra de Proteobacteria?**
 
-  - 24194 
+  - 24 194 
  [LINK](http://www.mg-rast.org/mgmain.html?mgpage=analysis)
 
 **10. ¿Cuántas secuencias de Salmonella (Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae) fueron identificadas? (Pista: level - genus)**
